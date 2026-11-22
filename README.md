@@ -75,3 +75,11 @@ auth, docs site.
 ## License
 
 MIT — do anything, keep the notice.
+
+---
+
+## Kontakt
+
+Fragen, Fehlerberichte, Sponsoring: **openamer-max@proton.me**
+
+Unterstützen: [PayPal](https://www.paypal.com/qrcodes/p2pqrc/BVZD4HRJ9G6YG) · [Website](https://openamer-max.github.io/)
